@@ -1,5 +1,6 @@
 File 2
 dasdhsadoasdhas
+New Line
 Section 1
     Line 1
     Line 2
